@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1015445606780",
+    "firebase_url": "https://study-matching.firebaseio.com",
+    "project_id": "study-matching",
+    "storage_bucket": "study-matching.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015445606780:android:2834a1097c17c1c8c5d4f9",
+        "android_client_info": {
+          "package_name": "com.hufurima.study_matching"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015445606780-197om1n1m67fdu5bk0appcraa5d1aqmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC9k7crTXFbd0zI4tsxPGIQ_6rYiJlAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015445606780-197om1n1m67fdu5bk0appcraa5d1aqmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015445606780-f0knkr3a45j57tbgsgq3pkvlb2e778fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hufurima.studyMatching"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

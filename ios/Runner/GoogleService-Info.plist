@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1015445606780-f0knkr3a45j57tbgsgq3pkvlb2e778fs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1015445606780-f0knkr3a45j57tbgsgq3pkvlb2e778fs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWCVsgCiLVJGu3BxNu-6oE-De7qrdbyJ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015445606780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hufurima.studyMatching</string>
+	<key>PROJECT_ID</key>
+	<string>study-matching</string>
+	<key>STORAGE_BUCKET</key>
+	<string>study-matching.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015445606780:ios:55df87c15d61974cc5d4f9</string>
+	<key>DATABASE_URL</key>
+	<string>https://study-matching.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "study-matching"
+  },
+  "targets": {
+    "study-matching": {
+      "hosting": {
+        "terms": [
+          "webpages"
+        ]
+      }
+    }
+  }
+}
